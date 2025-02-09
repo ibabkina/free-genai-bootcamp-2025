@@ -1,4 +1,4 @@
-## MetaAI Powered Assistant Guuide
+## MetaAI Powered Assistant Guide
 
 ### Which Model
 
